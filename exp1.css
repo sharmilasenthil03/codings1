@@ -6,7 +6,7 @@
   border: 5px;
   align-content: baseline;
 }
-.containers {
+.container {
   display: flex;
   border: 5px solid white;
   width: auto;
